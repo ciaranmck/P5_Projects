@@ -1,0 +1,13 @@
+class Planet {
+    float radius;
+    float angle;
+
+    Planet(float r) {
+        radius = r;
+        angle = 0;
+    }
+
+    void show() {
+        
+    }
+}
